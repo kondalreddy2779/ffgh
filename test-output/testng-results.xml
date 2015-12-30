@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42627" started-at="2015-12-30T11:22:28Z" finished-at="2015-12-30T11:23:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42627" started-at="2015-12-30T11:22:28Z" finished-at="2015-12-30T11:23:11Z">
+      <class name="dec30.ExtentReportGeneration">
+        <test-method status="PASS" signature="reportTest()[pri:0, instance:dec30.ExtentReportGeneration@4cb51c2d]" name="reportTest" duration-ms="42548" started-at="2015-12-30T16:52:28Z" finished-at="2015-12-30T16:53:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTest -->
+      </class> <!-- dec30.ExtentReportGeneration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
